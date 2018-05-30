@@ -4,9 +4,59 @@ root: .  # Is the only page that don't follow the partner /:path/index.html
 permalink: index.html  # Is the only page that don't follow the partner /:path/index.html
 ---
 
-Library Carpentry is software and data skills training. Originally based on lessons developed by The Carpentries, Library Carpentry has evolved, and aims to help library professionals work more efficiently, and potentially teach the skills they have learned to colleagues, students, and researchers. Training takes place in face-to-face workshops. 
+Originally based on lessons developed by The Carpentries, Library Carpentry’s aim is to teach librarians, archivists, and other information workers how to automate tasks, create, maintain, and analyze sustainable and reusable data, work effectively with IT and systems colleagues, and better understand the use of software in research. Training takes place in face-to-face workshops.
 
 > ## Prerequisites
 >
-> We presume no prior knowledge of the tools used in our workshops.
+> There are no pre-requisites, and the materials assume no prior knowledge about the tools.
 {: .prereq}
+
+> ## Data
+> 
+> The data used in this workshop are often in the form of bibliographic metadata and text-based data. See each lesson for the > specific datasets and sources used. 
+
+Overview of the lessons:
+
+	* Introduction to Data
+	* Shell Lesons
+	* Introduction to Git
+  * OpenRefine
+
+# Detailed structure
+
+## Part 1: Introduction to Data
+
+There is one lesson in this section. The first half of the lesson is a question and answer activity that allows participants to explore concepts (jargon) around software development and data science. The second half of the lesson explores regular expressions (pattern matching) to find, manage, and transform data and files.
+
+	* Introduction to Data Lesson
+	* Introduction to Data Repository
+
+## Part 2: Shell Lessons
+
+This lesson includes basic information on navigating/working with files and directories, scripting, and finding things on the command line (shell).
+
+	*	Shell Lessons
+	*	Shell Lessons Repository
+
+## Part 3: Introduction to Git
+
+This lesson introduces git on the command line and moves to using GitHub to collaborate, manage, version, and share your project (repository) work.
+	•	Introduction to Git Lesson
+	•	Introduction to Git Repository
+
+## Part 4: OpenRefine
+
+This lesson introduces OpenRefine, a software program that helps with transforming, cleaning, filtering, and analysing data files.
+
+	*	OpenRefine Lesson
+	*	OpenRefine Repository
+
+# Other lessons
+
+There are a number of other Library Carpentry lessons, in alpha, beta, and experimental form, that are used to supplement and tailor workshops to the local needs of the community being taught. The lessons include:
+	*	SQL
+	*	Webscraping
+	*	Tidy Data
+	*	Introduction to Python
+	*	Introduction to Data (for Archivists)
+ 
