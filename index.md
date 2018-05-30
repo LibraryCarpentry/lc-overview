@@ -29,8 +29,8 @@ Overview of the lessons:
 
 There is one lesson in this section. The first half of the lesson is a question and answer activity that allows participants to explore concepts or jargon around software development and data science. The second half of the lesson explores regular expressions or pattern matching to find, manage, and transform data and files.
 
-  * Introduction to Data Lesson](https://librarycarpentry.github.io/lc-data-intro/)
-  * Introduction to Data Repository](https://github.com/LibraryCarpentry/lc-data-intro)
+  * [Introduction to Data Lesson](https://librarycarpentry.github.io/lc-data-intro/)
+  * [Introduction to Data Repository](https://github.com/LibraryCarpentry/lc-data-intro)
 
 ## Part 2: Shell Lessons
 
