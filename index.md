@@ -13,7 +13,7 @@ Originally based on lessons developed by The Carpentries, Library Carpentry’s 
 
 > ## Data
 > 
-> The data used in this workshop are often in the form of bibliographic metadata and text-based data. See each lesson for the > specific datasets and sources used.
+> The data used in this workshop are often in the form of bibliographic metadata and text-based data. See each lesson for the specific datasets and sources used.
 {: .prereq}
 
 Overview of the lessons:
