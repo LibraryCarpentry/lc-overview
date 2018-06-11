@@ -6,6 +6,8 @@ permalink: index.html  # Is the only page that don't follow the partner /:path/i
 
 Originally based on lessons developed by The Carpentries, Library Carpentry’s aim is to teach librarians, archivists, and other information workers how to automate tasks, create, maintain, and analyze sustainable and reusable data, work effectively with IT and systems colleagues, and better understand the use of software in research. Training takes place in face-to-face workshops.
 
+The librarian role, especially in academic instituions, has considerably changed. Increasingly, the information researchers want to find and use is in data they already _have_, can _get_ (from instruments such as telescopes, sensors, and MR machines), or about to _generate_. They need help acquiring, analysing, visualising, manipulating, organising, and cleaning up this data, which is where Library Carpentry can help. Librarians who develop these skills can thus become partners in the research process. 
+
 > ## Prerequisites
 >
 > There are no pre-requisites, and the materials assume no prior knowledge about the tools.
