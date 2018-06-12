@@ -1,3 +1,9 @@
+---
+layout: lesson
+root: .  # Is the only page that don't follow the partner /:path/index.html
+permalink: index.html  # Is the only page that don't follow the partner /:path/index.html
+---
+
 # Library Carpentry Audience
 
 ## Demographic information about the Library Carpentry community:
