@@ -13,7 +13,7 @@ keypoints:
 ## Demographic information about the Library Carpentry community:
 
 Learning about your audience, particularly demographic data, can greatly aid how you can communicate and teach effectively. 
-Review the [list of demographic resources](demographics/) grouped by country as you get to know the Library Carpentry audience and community. 
+Review the [list of demographic resources](demographics/index.html) grouped by country as you get to know the Library Carpentry audience and community. 
 
 
 ## Job descriptions from the Library Carpentry community:
