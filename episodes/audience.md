@@ -1,8 +1,14 @@
 ---
 title: "Library Carpentry Audience"
+teaching: 15
+exercises: 15
+questions:
+- X
+objectives:
+- Y
+keypoints:
+- Z
 ---
-
-# Library Carpentry Audience
 
 ## Demographic information about the Library Carpentry community:
 
