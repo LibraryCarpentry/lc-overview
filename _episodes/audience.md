@@ -1,14 +1,5 @@
 ---
 title: "Library Carpentry Audience"
-teaching: 15
-exercises: 0
-keypoints:
-- Demographic information about the Library Carpentry community
-- Job descriptions from the Library Carpentry community
-- Library Carpentry speaks to those working with information and data
-- Library Carpentry can help you to...
-- The Library Carpentry community includes, but is not limited to, the following general profiles
-- User stories exercise
 ---
 
 # Library Carpentry Audience
