@@ -19,7 +19,7 @@ Review the [list of demographic resources](../demographics/index.html) grouped b
 ## Job descriptions from the Library Carpentry community:
 
 Job descriptions can also be invaluable to understanding the duties and tasks associated with the audience roles in the 
-Library Carpentry community. Please see the [list of job descriptions]() grouped by country for more background.
+Library Carpentry community. Please see the [list of job descriptions](../jobs/index.html) grouped by country for more background.
 
 
 ## Library Carpentry speaks to those working with information and data:
