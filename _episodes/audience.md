@@ -3,42 +3,24 @@ title: "Library Carpentry Audience"
 teaching: 15
 exercises: 15
 questions:
-- X
+- What is the audience of the Library Carpentry community?
 objectives:
-- Y
+- To learn about members of the Library Carpentry community, to understand their background and their needs.
 keypoints:
-- Z
+- Demographic information, job descriptions, outcomes, profiles, and user stories are helpful in understanding the Library Carpentry community.
 ---
 
 ## Demographic information about the Library Carpentry community:
 
 Learning about your audience, particularly demographic data, can greatly aid how you can communicate and teach effectively. 
-Review the list of demographic resources grouped by country as you get to know the Library Carpentry audience and community. 
+Review the [list of demographic resources]() grouped by country as you get to know the Library Carpentry audience and community. 
 
-United States
-Data.usa: Librarians
-https://datausa.io/profile/soc/254021/
-2017 ALA Demographic Study
-http://www.ala.org/tools/sites/ala.org.tools/files/content/Draft%20of%20Member%20Demographics%20Survey%2001-11-2017.pdf 
-Libraries are not for everyone until librarianship can be for everyone
-https://medium.com/@rebeccastavick/libraries-are-not-for-everyone-until-librarianship-can-be-for-everyone-d32d7072970f 
-
-Other countries...
-
-Note: The list of resources will be on a separate .md page.
 
 ## Job descriptions from the Library Carpentry community:
 
 Job descriptions can also be invaluable to understanding the duties and tasks associated with the audience roles in the 
-Library Carpentry community:
+Library Carpentry community. Please see the [list of job descriptions]() grouped by country for more background.
 
-United States
-ALA List of Job Descriptions 
-http://www.ala.org/aboutala/offices/publishing/editions/webextras/technologymadesimple/jobdescriptions/jobdescriptions 
-
-Other countries...
-
-Note: The list of resources will be on a separate .md page.
 
 ## Library Carpentry speaks to those working with information and data:
 
@@ -49,6 +31,7 @@ Note: The list of resources will be on a separate .md page.
 * Who would like to collaboratively develop lesson material around information and data
 * Who are generally interested in data scholarship 
 * Who are looking for a community where they can discuss data related challenges
+
 
 ## Library Carpentry can help you to...
 
@@ -63,31 +46,33 @@ Note: The list of resources will be on a separate .md page.
 * Comply with new strategic plans and mission statements
 * Create new opportunities and to reach out to new communities
 
+
 ## The Library Carpentry community includes, but is not limited to, the following general profiles:
 
 ** Someone who is wishing… **
 
 * To understand how information and data are created and used both internally and externally at an organization to 
-develop reports that help improve the quality of their data and services. * (Reporting) *
+develop reports that help improve the quality of their data and services. *(Reporting)*
 
 * To learn about new technologies and approaches that can help improve metadata and data cleaning and linking workflows 
-to benefit discovery of resources in their communities. * (Curation) *
+to benefit discovery of resources in their communities. *(Curation)*
 
-* To develop digital preservation skills to enable and ensure access to reformatted and born digital content. * (Preservation) *
+* To develop digital preservation skills to enable and ensure access to reformatted and born digital content. *(Preservation)*
 
 * To gain background knowledge on advances in information and data technologies and approaches to foster greater interaction, 
-collaboration, and better assistance with community members around technical questions and challenges. * (Information Desk) *
+collaboration, and better assistance with community members around technical questions and challenges. *(Information Desk)*
 
 * To learn useful methods and technologies and in turn teach their communities about them to enable their work with 
-information and data. * (Instructional) *
+information and data. *(Instructional)*
 
-* To develop skills and expertise to participate on technical projects that enhance and support digital services. * (IT) *
+* To develop skills and expertise to participate on technical projects that enhance and support digital services. *(IT)*
+
 
 ## User stories exercise
 
 The following exercise can be helpful in understanding the drivers and needs of the Library Carpentry audience:
 
-As a _____ I need _____ in order to / so that  _______
+As a _____  I need  _____ in order to / so that  _______
 
 List of examples:
 
