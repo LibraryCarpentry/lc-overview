@@ -19,7 +19,7 @@ Originally based on lessons developed by The Carpentries, Library Carpentry’s 
 Overview of the lessons:
 
   * Introduction to Data
-  * Shell Lesons
+  * Shell Lessons
   * Introduction to Git
   * OpenRefine
 
