@@ -128,141 +128,118 @@ See Institute of Museum and Library Services Grant [RE-85-17-0121-17](https://ww
 - University of Oregon Libraries and Oregon State University Libraries Team Up to Teach First Library Carpentry Workshop in Oregon: UO and OSU Library Carpentry report  
 [https://librarycarpentry.org/blog/2018/08/oregon-libraries-report/](https://librarycarpentry.org/blog/2018/08/oregon-libraries-report/)
 
-Software, Data, and Library Carpentry at a glance
+## Software, Data, and Library Carpentry at a glance
 
-The Carpentries: Building skills and community
-Non-profit teaching data science skills for more effective work and career development
-Training ‘in the gaps’ that is accessible, approachable, aligned and applicable (the practical skills you need in your work)
-Volunteer instructors, peer-led hands-on intensive workshops
-Open and collaborative lesson materials
-Creating and supporting community, local capacity for teaching and learning these skills and perspectives
-25
+- The Carpentries: Building skills and community
+- Non-profit teaching data science skills for more effective work and career development
+- Training ‘in the gaps’ that is accessible, approachable, aligned and applicable (the practical skills you need in your work)
+- Volunteer instructors, peer-led hands-on intensive workshops
+- Open and collaborative lesson materials
+- Creating and supporting community, local capacity for teaching and learning these skills and perspectives
 
+### Workshops
+- 2-days, active learning
+- Feedback to learners throughout the workshop
+- Trained, certified instructors
+- Friendly learning environment (Code of Conduct)
 
+For images, see [https://twitter.com/search?f=images&vertical=default&q=library%20carpentry%20workshop&src=typd](https://twitter.com/search?f=images&vertical=default&q=library%20carpentry%20workshop&src=typd)
 
-Workshops
-2-days, active learning
-Feedback to learners throughout the workshop
-Trained, certified instructors
-Friendly learning environment (Code of Conduct)
-26
-Workshops are 2-day, hands-on, interactive, friendly learning environment (CoC), teaching the foundational skills and perspectives for working with software and data
+### Workshops are 2-day, hands-on, interactive, friendly learning environment (Code of Conduct), teaching the foundational skills and perspectives for working with software and data
 
+- Our workshops. 
+- Our learners.
+- Our 2018 Annual Report (which includes data/highlights):  
+[https://carpentries.org/files/assessment/TheCarpentries2018AnnualReport.pdf](https://carpentries.org/files/assessment/TheCarpentries2018AnnualReport.pdf)
 
-Our workshops. 
-Our learners.
-27
-The Carpentries 2018 Annual Report
-https://carpentries.org/files/assessment/TheCarpentries2018AnnualReport.pdf 
+### Focus of Data, Software, and Library Carpentry
+- **Data Carpentry** workshops are domain-specific, and focus on teaching skills for working with data effectively and reproducibly.
+- **Software Carpentry** workshops are domain-agnostic, and teach the Unix Shell, coding in R or Python, and version control using Git (i.e. Research software workflows).
+- **Library Carpentry** workshops focus on teaching software and data skills for people working in library- and information-related roles. The workshops are domain-agnostic though datasets used will be familiar to library staff (i.e. Automating workflows, data cleaning, outreach to researchers/IT).
 
-Data Carpentry workshops are domain-specific, and focus on teaching skills for working with data effectively and reproducibly.
-Software Carpentry workshops are domain-agnostic, and teach the Unix Shell, coding in R or Python, and version control using Git (i.e. Research software workflows).
-Library Carpentry workshops focus on teaching software and data skills for people working in library- and information-related roles. The workshops are domain-agnostic though datasets used will be familiar to library staff (i.e. Automating workflows, data cleaning, outreach to researchers/IT).
-28
-Focus of Data, Software, and Library Carpentry
+### The Carpentries workshop goals
+- Teach skills
+- Get people started and introduce them to what’s possible
+- Build confidence in using these skills
+- Encourage people to continue learning
+- Positive learning experience
 
+### Goals of the workshop, aren’t just to teach the skills, but to build self-efficacy and increase confidence and create a positive learning experience. We know we can’t teach everything in two days, but we want to teach the foundational skills and get people started and give them the confidence to continue learning. Many people have had demotivating experience when learning things like coding or computational skills, and we want to change that perspective.
 
-
-The Carpentries workshop goals
-Teach skills
-Get people started and introduce them to what’s possible
-Build confidence in using these skills
-Encourage people to continue learning
-Positive learning experience
-29
-Goals of the workshop, aren’t just to teach the skills, but to build self-efficacy and increase confidence and create a positive learning experience. We know we can’t teach everything in two days, but we want to teach the foundational skills and get people started and give them the confidence to continue learning. Many people have had demotivating experience when learning things like coding or computational skills, and we want to change that perspective.
-
-
-Instructor training
+### Instructor training
 Educational pedagogy is the focus of Instructor training program. The following steps are required to become a certified Instructor who can teach all Carpentries lessons!
-2-days of online training in the pedagogy
-Suggest a change to a lesson on GitHub
-1-hr online discussion on running/teaching workshops
-Online teaching demo
-More information: http://carpentries.github.io/instructor-training/ 
-30
-A big part of this positive workshop experience is our instructors. We have over 900 volunteer instructors on 6 continents. We have an instructor training program that teaches educational pedagogy and emphasizes creating an approachable and inclusive environment, including with our CoC. For many of our instructors, they say this is the first time they’ve had access to training on how to teach. The instructors are generally active researchers, graduate students, postdocs or research scientists who have computational skills, often having had to struggle to learn them on their own, and are passionate about sharing these skills with others.
+- 2-days of online training in the pedagogy
+- Suggest a change to a lesson on GitHub
+- 1-hr online discussion on running/teaching workshops
+- Online teaching demo
 
+More information: [http://carpentries.github.io/instructor-training/](http://carpentries.github.io/instructor-training/)
 
-Lesson maintenance
+### Lesson maintenance
+- We have an active community of lesson contributors and Maintainers that improve our 9 Library Carpentry lessons on a daily basi... 
+- What have the Library Carpentry Maintainers been working on? An update on what the Library Carpentry Maintainers have been working on since January 2019.  
+[https://librarycarpentry.org/blog/2019/04/what-have-the-lc-maintainers-been-working-on/](https://librarycarpentry.org/blog/2019/04/what-have-the-lc-maintainers-been-working-on/)
+- News from the Library Carpentry Maintainer Community and Curriculum Advisory Committee: An update on Library Carpentry lesson development   
+[https://librarycarpentry.org/blog/2019/02/news-from-lc-maintainers/](https://librarycarpentry.org/blog/2019/02/news-from-lc-maintainers/)
 
-We have an active community of lesson contributors and Maintainers that improve our 9 Library Carpentry lessons on a daily basis… 
-What have the Library Carpentry Maintainers been working on? An update on what the Library Carpentry Maintainers have been working on since January 2019.https://librarycarpentry.org/blog/2019/04/what-have-the-lc-maintainers-been-working-on/ 
-News from the Library Carpentry Maintainer Community and Curriculum Advisory Committee: An update on Library Carpentry lesson development.https://librarycarpentry.org/blog/2019/02/news-from-lc-maintainers/ 
+### Community opportunities
+- Community of people excited about software and data skills and about sharing them with others
+- Mentoring program and instructor onboarding
+- Discussion groups and community calls
+- Email lists
+- Social media, chat channels
+- Teaching at other institutions
+- Lesson development and maintenance
 
-
-Community opportunities
-Community of people excited about software and data skills and about sharing them with others
-Mentoring program and instructor onboarding
-Discussion groups and community calls
-Email lists
-Social media, chat channels
-Teaching at other institutions
-Lesson development and maintenance
-32
-Community. One of the un-intended consequences of building this training program has been the growth of a community. Our learners and volunteer instructors in particulr list being part of the community as one of the primary reasons they work witth the Carpentries. It’s a group of people excited about computational skills, but also about teaching and sharing them. We have a mentoring program to help new instructors, discussion sessions for people to talk about workshops, onboarding process for new instructors and because people go to different institutes to teach, opportunities to travel and grow their network and meet other instructors and learners.
-
-
-33
-https://carpentries.github.io/assessment/learner-assessment/archives/2018/code/2018_January_long_term_report.html 
-Outcomes
+### Outcomes
 Short and long term surveys show that people are learning the skills, putting them into practice and have more confidence in their ability to do computational work.
+See The Carpentries [January 2018 long-term survey report](https://carpentries.github.io/assessment/learner-assessment/archives/2018/code/2018_January_long_term_report.html )
 
-Outcomes
-We also see researchers writing about the impact Carpentries training and approaches have had in their workflows:
-Yenni, G. M., Christensen, E. M., Bledsoe, E. K., Supp, S. R., Diaz, R. M., White, E. P., & Ernest, S. M. (2019). Developing a modern data workflow for regularly updated data. PLoS biology, 17(1), e3000125. Chicagohttps://doi.org/10.1371/journal.pbio.3000125 
-34
-When we get feedback on our workshops, this friendliness and the instructors are noted as some of the great strengths of the workshop. This approach has been shown to be effective in both short-term surveys after the workshop and in long-term surveys, more than 6 months after a workshop, with just a two-day workshop having a dramatic impact on work and career outcomes
+### Outcomes
+We also see researchers writing about the impact Carpentries training and approaches have had in their workflows:  
 
+Yenni, G. M., Christensen, E. M., Bledsoe, E. K., Supp, S. R., Diaz, R. M., White, E. P., & Ernest, S. M. (2019). Developing a modern data workflow for regularly updated data. PLoS biology, 17(1), e3000125. Chicago [https://doi.org/10.1371/journal.pbio.3000125](https://doi.org/10.1371/journal.pbio.3000125)
 
-Library Carpentry core objectives
+## Library Carpentry core objectives
 Library Carpentry workshops teach people working in library- and information-related roles how to:
-Cut through the jargon terms and phrases of software development and data science and apply concepts from these fields in library tasks;
-Identify and use best practices in data structures;
-Learn how to programmatically transform and map data from one form to another;
-Work effectively with researchers, IT, and systems colleagues;
-Automate repetitive, error prone tasks.
+- Cut through the jargon terms and phrases of software development and data science and apply concepts from these fields in library tasks;
+- Identify and use best practices in data structures;
+- Learn how to programmatically transform and map data from one form to another;
+- Work effectively with researchers, IT, and systems colleagues;
+- Automate repetitive, error prone tasks.
 
+## How to get involved
 
-36
-How can I get started? Contribute to a lesson.
-All of our lessons are CC-BY and hosted on GitHub at https://github.com/LibraryCarpentry. Anyone can contribute!
+### How can I get started? Contribute to a lesson.
+All of our lessons are CC-BY and hosted on GitHub at [https://github.com/LibraryCarpentry](https://github.com/LibraryCarpentry). Anyone can contribute!
 
-37
-How can I get started? Host, help, teach.
-Request a workshop:
-https://amy.carpentries.org/forms/workshop/ (cost is 2500 USD to support instructor travel)
+### How can I get started? Host, help, teach.
+- Request a workshop:  
+[https://amy.carpentries.org/forms/workshop/](https://amy.carpentries.org/forms/workshop/) (cost is 2500 USD to support instructor travel)
 
-Find a workshop in your area to attend/help with/observe:
-https://carpentries.org (scroll down the page)
+- Find a workshop in your area to attend/help with/observe:  
+[https://carpentries.org](https://carpentries.org) (scroll down the page)
 
-Apply to be an Instructor:
-https://carpentries.org/become-instructor/ 
+- Apply to be an Instructor:  
+[https://carpentries.org/become-instructor/](https://carpentries.org/become-instructor/)
 
-Become a member:
+### Become a member
+- How can I get started? Become a member.
+- Find out more [https://carpentries.org/membership/](https://carpentries.org/membership/) and/or reach out to [memberships@carpentries.org](mailto:memberships@carpentries.org)
 
-
-38
-How can I get started? Become a member.
-Find out more https://carpentries.org/membership/ and/or reach out to memberships@carpentries.org 
-
-The Carpentries & Library Carpentry websites
+### The Carpentries & Library Carpentry websites
 https://librarycarpentry.org 
 https://carpentries.org 
 
-Connect with The Carpentries
-The Carpentries Slack, email lists, Twitter, newsletter…https://carpentries.org/connect/
-Library Carpentry Slack, email list, Gitter, Twitter…https://librarycarpentry.org/contact/ 
+### Connect with The Carpentries
+- The Carpentries Slack, email lists, Twitter, newsletter... [https://carpentries.org/connect/](https://carpentries.org/connect/)
+- Library Carpentry Slack, email list, Gitter, Twitter... [https://librarycarpentry.org/contact/](https://librarycarpentry.org/contact/)
 
-
+## What is your library/network doing to meet the data science needs of your community?
+- Have you surveyed the needs of  your community/library staff/members?
+- What training programs have you taken/plan to take?
+- If you have taken training programs, how have you incorporated what you have learned into your programs and services?
 
-What is your library/network doing to meet the data science needs of your community?
-Have you surveyed the needs of  your community/library staff/members?
-What training programs have you taken/plan to take?
-If you have taken training programs, how have you incorporated what you have learned into your programs and services?
-
-
-Thank you
-Contact Chris Erdmann if you have further questions at Christopher.Erdmann@ucop.edu or @libcce on Twitter
-
-Or contact The Carpentries directly at https://carpentries.org/connect/.
+## Thank you
+- Your contact info
+- Contact The Carpentries [https://carpentries.org/connect/](https://carpentries.org/connect/)
