@@ -33,7 +33,6 @@ According to Barone L,  Williams J and Micklos D. [Unmet Needs for Analyzing Bio
 - Data storage and HPC ranked lowest on their list of unmet needs
 - The problem is the growing gap between the accumulation of big data—and researchers’ knowledge about how to use it effectively
 
-
 ![Fig 3. Unmet data analysis needs of National Science Foundation (NSF) Biological Sciences Directorate (BIO) principal investigators (PIs) (percent responding negatively, 318 ≤ n ≤ 510).](https://journals.plos.org/ploscompbiol/article/figure/image?size=large&download=&id=info:doi/10.1371/journal.pcbi.1005755.g003)
 
 In a survey of biology NSF PIs, the top 3 unmet needs are around training
@@ -63,6 +62,9 @@ Brigham Young University, Caltech, Carnegie Mellon, College of Charleston, Colum
 ### Investing in America's data science and analytics talent
 - 69% of business leaders in the United States will prefer job applicants with data skills by 2021. 
 - 23% of college and university leaders say their graduates will have those skills.
+
+April 2017 Business-Higher Education Forum (BHEF) report titled “[Investing in
+America's Data Science and Analytics Talent: The Case for Action.](http://www.bhef.com/sites/default/files/bhef_2017_investing_in_dsa.pdf)"
 
 ### 66% of the Data Carpentry workshop attendees are early career.
 Analysis of Software and Data Carpentry's Pre- and Post-Workshop Surveys
