@@ -1,3 +1,15 @@
+---
+title: "Further reading"
+teaching: 5
+exercises: 0
+questions:
+- Are there additional resources I can read to understand computational approaches in libraries?
+objectives:
+- Identify additional resources on computational approaches in libraries. 
+keypoints:
+- Learn about computational approaches being applied in libraries. 
+---
+
 ## For further reading
 
 - Rosati, D. A. (2016). [Librarians and Computer Programming: understanding the role of programming within the profession of librarianship](https://www.semanticscholar.org/paper/Librarians-and-Computer-Programming%3A-Understanding-Rosati/4660ec96867e3b7b93e9248c1b69b9d4e482f13f). Dalhousie Journal of Interdisciplinary Management, 12(1).
