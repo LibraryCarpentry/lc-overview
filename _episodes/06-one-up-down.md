@@ -1,23 +1,16 @@
+---
+title: "One Up, One Down"
+teaching: 0
+exercises: 30
+questions:
+- What did you like and what needs improvement about the lessons and workshop?
+objectives:
+- Learners reflect and share what they liked and what can be improved about the lessons and workshops.
+- Instructors record the learner feedback and reflect on what can be improved about the lessons and workshops.
+keypoints:
+- It helps to reflect and share feedback about the lessons and workshop.
+---
+
 ## One-Up, One-Down
 
-In addition to minute cards, we also ask learners to give us feedback at the end
-of each day using a technique called "one up, one down".  The
-instructor asks the learners to alternately give one positive and one
-negative point about the day, without repeating anything that has
-already been said.  This requirement forces people to say things they
-otherwise might not: once all the "safe" feedback has been given,
-participants will start saying what they really think. The instructor
-writes down the feedback in the Etherpad or a text editor,
-but does not comment on the feedback while collecting it. The instructors then
-discuss this feedback and how they plan to act on it. Like with minute cards, be explicit
-about how you're responding to learner feedback.
-
-
-> ## Give Us Feedback
->
-> Write one thing you learned this morning that you found useful on
-> your blue sticky note, and one question you have about the material
-> on the yellow.  Do *not* put your name on the notes: this is meant to
-> be anonymous feedback.  Add your notes to the pile by the door as
-> you leave for lunch.
-{: .challenge}
+In addition to sticky notes used for feedback during the day, at the end of the day we can use a technique called "one up, one down". The instructor asks the learners to alternately point to one thing they liked and one thing that can be improved about the day, without repeating anything that has already been said.  This requirement allows participants to reflect further on the day and offer unique responses. The instructor writes down the feedback in the workshop collaborative document. The feedback is both helpful to the learners, to hear the perspectives of others in the workshop, and for instructors, to learn how the lessons and teaching approaches used can be improved.
