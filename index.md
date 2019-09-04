@@ -63,32 +63,32 @@ This lesson includes information on navigating/working with files and directorie
 
 This lesson introduces git on the command line and moves to using GitHub to collaborate, manage, version, and share your project or repository work.
 
-  * [Introduction to Git](https://librarycarpentry.github.io/lc-git/) [GitHub Repository](https://github.com/LibraryCarpentry/lc-git)
+  * [Introduction to Git](https://librarycarpentry.github.io/lc-git/) [(GitHub Repository)](https://github.com/LibraryCarpentry/lc-git)
 
 ## Part 4: OpenRefine
 
 This lesson introduces OpenRefine, a software program that helps with transforming, cleaning, filtering, and analysing data files.
 
-  * [OpenRefine](https://librarycarpentry.github.io/lc-open-refine/) [GitHub Repository](https://github.com/LibraryCarpentry/lc-open-refine)
+  * [OpenRefine](https://librarycarpentry.github.io/lc-open-refine/) [(GitHub Repository)](https://github.com/LibraryCarpentry/lc-open-refine)
 
 # Extended Lessons
 
 There are a number of extended Library Carpentry lessons, in alpha and beta form, that are used to supplement and tailor workshops to the local needs of the community being taught. The lessons include:
 
-  * [SQL](https://librarycarpentry.github.io/lc-sql/) [GitHub Repository](https://github.com/LibraryCarpentry/lc-sql)
-  * [Webscraping](https://librarycarpentry.github.io/lc-webscraping/) [GitHub Repository](https://github.com/LibraryCarpentry/lc-webscraping)
-  * [Tidy Data](https://librarycarpentry.github.io/lc-spreadsheets/) [GitHub Repository](https://github.com/LibraryCarpentry/lc-spreadsheets)
-  * [Introduction to Python](https://librarycarpentry.github.io/lc-python-intro/) [GitHub Repository](https://github.com/LibraryCarpentry/lc-python-intro)
-  * [Introduction to Data (for Archivists)](https://librarycarpentry.github.io/lc-data-intro-archives/) [GitHub Repository](https://github.com/LibraryCarpentry/lc-data-intro-archives)
-  * [Top 10 FAIR Data & Software Things](https://librarycarpentry.github.io/Top-10-FAIR/) [GitHub Repository](https://github.com/LibraryCarpentry/Top-10-FAIR)
+  * [SQL](https://librarycarpentry.github.io/lc-sql/) [(GitHub Repository)](https://github.com/LibraryCarpentry/lc-sql)
+  * [Webscraping](https://librarycarpentry.github.io/lc-webscraping/) [(GitHub Repository)](https://github.com/LibraryCarpentry/lc-webscraping)
+  * [Tidy Data](https://librarycarpentry.github.io/lc-spreadsheets/) [(GitHub Repository)](https://github.com/LibraryCarpentry/lc-spreadsheets)
+  * [Introduction to Python](https://librarycarpentry.github.io/lc-python-intro/) [(GitHub Repository)](https://github.com/LibraryCarpentry/lc-python-intro)
+  * [Introduction to Data (for Archivists)](https://librarycarpentry.github.io/lc-data-intro-archives/) [(GitHub Repository)](https://github.com/LibraryCarpentry/lc-data-intro-archives)
+  * [Top 10 FAIR Data & Software Things](https://librarycarpentry.github.io/Top-10-FAIR/) [(GitHub Repository)](https://github.com/LibraryCarpentry/Top-10-FAIR)
 
 # Conceptual Lessons
 
 In addition, the following lessons are conceptual (pre-alpha) and still in a design phase where community members are discussing them and/or lesson development is still in an early phase:
 
-  * [Wikidata](https://librarycarpentry.github.io/lc-wikidata/) [GitHub Repository](https://github.com/LibraryCarpentry/lc-wikidata)
-  * [FAIR Data & Software](https://librarycarpentry.github.io/lc-research-data/) [GitHub Repository](https://github.com/LibraryCarpentry/lc-research-data)
-  * [R](https://librarycarpentry.github.io/lc-r/) [GitHub Repository](https://github.com/LibraryCarpentry/lc-open-refine)
-  * [MarcEdit](https://librarycarpentry.github.io/lc-marcedit/) [GitHub Repository](https://github.com/LibraryCarpentry/lc-marcedit)
-  * [OCR/Text & Data Mining](https://librarycarpentry.github.io/lc-ocr/) [GitHub Repository](https://github.com/LibraryCarpentry/lc-ocr)
+  * [Wikidata](https://librarycarpentry.github.io/lc-wikidata/) [(GitHub Repository)](https://github.com/LibraryCarpentry/lc-wikidata)
+  * [FAIR Data & Software](https://librarycarpentry.github.io/lc-research-data/) [(GitHub Repository)](https://github.com/LibraryCarpentry/lc-research-data)
+  * [R](https://librarycarpentry.github.io/lc-r/) [(GitHub Repository)](https://github.com/LibraryCarpentry/lc-open-refine)
+  * [MarcEdit](https://librarycarpentry.github.io/lc-marcedit/) [(GitHub Repository)](https://github.com/LibraryCarpentry/lc-marcedit)
+  * [OCR/Text & Data Mining](https://librarycarpentry.github.io/lc-ocr/) [(GitHub Repository)](https://github.com/LibraryCarpentry/lc-ocr)
   
