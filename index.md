@@ -4,9 +4,14 @@ root: .  # Is the only page that don't follow the partner /:path/index.html
 permalink: index.html  # Is the only page that don't follow the partner /:path/index.html
 ---
 
-Originally based on lessons developed by The Carpentries, Library Carpentry’s aim is to teach librarians, archivists, and other information workers how to automate tasks, create, maintain, and analyze sustainable and reusable data, work effectively with IT and systems colleagues, and better understand the use of software in research. Training takes place in face-to-face workshops.
+Library Carpentry’s aim is to teach librarians, archivists, and other information workers how to automate tasks, create, maintain, and analyze sustainable and reusable data, work effectively with IT and systems colleagues, and better understand the use of software in research. Training takes place mainly in face-to-face workshops. To learn more about our workshops, see [The Carpentries Handbook](link).
 
-> ## Prerequisites
+> ## Audience
+>
+> Library Carpentry lessons teach software and data skills for people working in library- and information-related roles. See [Our Audience](https://librarycarpentry.org/audience/) and [Our Learner Profiles]() for more information.
+{: .prereq}
+
+> ## Prerequisites & Tools
 >
 > There are no pre-requisites, and the materials assume no prior knowledge about the tools.
 {: .prereq}
@@ -16,16 +21,18 @@ Originally based on lessons developed by The Carpentries, Library Carpentry’s 
 > The data used in this workshop are often in the form of bibliographic metadata and text-based data. See each lesson for the specific datasets and sources used.
 {: .prereq}
 
-Overview of the lessons:
+# Workshop Structure
 
-  * Introduction to Data
-  * Shell Lessons
-  * Introduction to Git
-  * OpenRefine
+## Parts vs Days
+Feedback from the Library Carpentry community points to the importance of offering greater flexibility in the delivery of Library Carpentry training, citing the difficulty many in library- and information-related roles have in getting time off for training. This might mean running training in half day blocks, rather than as a two-day chunk. In addition, flexibility may be needed to meet the needs or preferences of the community and host/organiser. 
 
-# Detailed structure
+Instead of requiring “Days” like Data Carpentry or Software Carpentry, “Parts” are used to allow for the flexibility desired by the Library Carpentry community. If a standard workshop (which includes three of the four core lessons) cannot be held across two consecutive days, then alternatively, it can be run in parts across a number of days. As long as three of the four core lessons are taught, it makes no difference whether the workshop is run in one day, two days, or multiple days.
 
-## Part 1: Introduction to Data
+Based on the feedback from Library Carpentry and greater Carpentries community, The Carpentries is doing more to include flexibility in the organisation of workshops. See [link to blog]()
+
+## Core Lessons
+
+### Introduction to Working with Data
 
 There is one lesson in this section. The first half of the lesson is a question and answer activity that allows participants to explore concepts or jargon around software development and data science. The second half of the lesson explores regular expressions or pattern matching to find, manage, and transform data and files.
 
