@@ -34,10 +34,18 @@ Based on the feedback from Library Carpentry and greater Carpentries community, 
 
 ### Introduction to Working with Data
 
-There is one lesson in this section. The first half of the lesson is a question and answer activity that allows participants to explore concepts or jargon around software development and data science. The second half of the lesson explores regular expressions or pattern matching to find, manage, and transform data and files.
+The lesson begins with a question and answer activity that allows participants to explore concepts or jargon around software development and data science. Then, the reasons behind why taking a computational approach is beneficial are covered. The latter half of the lesson explores regular expressions or pattern matching to find, manage, and transform data and files.
 
-  * [Introduction to Data Lesson](https://librarycarpentry.github.io/lc-data-intro/)
-  * [Introduction to Data Repository](https://github.com/LibraryCarpentry/lc-data-intro)
+* [Jargon Busting](https://librarycarpentry.org/lc-overview/02-jargon-busting/index.html) [(GitHub Repository)](https://github.com/LibraryCarpentry/lc-overview)
+* [A Computational Approach](https://librarycarpentry.org/lc-overview/03-computational-approach/index.html) [(GitHub Repository)](https://github.com/LibraryCarpentry/lc-overview)
+* [Introduction to Working with Data (Regular Expressions)](https://librarycarpentry.github.io/lc-data-intro/) [(GitHub Repository)](https://github.com/LibraryCarpentry/lc-data-intro)
+  
+The following lesson episodes are optional:
+
+* [Introduction to Library Carpentry](https://librarycarpentry.org/lc-overview/01-intro-to-library-carpentry/index.html) [(GitHub Repository)](https://github.com/LibraryCarpentry/lc-overview): Geared towards workshop participants looking for an introduction to Library Carpentry and The Carpentries, for instance, as part of a shorter, pilot workshop (in connection with an event), or as a presentation at an event or to a community. 
+
+* [Keyboard Shortcuts](https://librarycarpentry.org/lc-overview/03-keyboard-shortcuts/index.html) [(GitHub Repository)](https://github.com/LibraryCarpentry/lc-overview): Introduce learners to keyboard shortcuts that will be used in the lesson and other lessons while learning that keyboard shortcuts are useful in automating tasks. A question and answer exercise allows workshop participants to learn from each other about new keyboard shortcuts.
+
 
 ## Part 2: Shell Lessons
 
