@@ -1,28 +1,43 @@
-# FIXME Lesson title
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3264946.svg)](https://doi.org/10.5281/zenodo.3264946)
+* Content/lessons recently shifted from Introduction to Data to Workshop Overview
 
-[![Create a Slack Account with us](https://img.shields.io/badge/Create_Slack_Account-The_Carpentries-071159.svg)](https://swc-slack-invite.herokuapp.com/)
+# Maintainers for Library Carpentry Workshop Overview
+ 
+- [Shari Laster](https://github.com/sharilaster) (Lead)
+- [Paul R. Pival](https://github.com/ppival)
+- [Anton Angelo](https://github.com/antonangelo)
+- [James Baker](https://github.com/drjwbaker)
+- [Carmi Cronje](https://github.com/ccronje)
 
-FIXME
+Lesson Maintainers communication is via the [team site](https://github.com/orgs/LibraryCarpentry/teams/lc-data-intro-maintainers).
+
+## Library Carpentry
+
+[Library Carpentry](https://librarycarpentry.org) is a software and data skills training programme for people working in library- and information-related roles. It builds on the work of [Software Carpentry](http://software-carpentry.org/) and [Data Carpentry](http://www.datacarpentry.org/). Library Carpentry is an official Lesson Program of [The Carpentries](https://carpentries.org/).
+
+## License
+
+All Software, Data, and Library Carpentry instructional material is made available under the [Creative Commons Attribution
+license](https://github.com/LibraryCarpentry/lc-overview/blob/gh-pages/LICENSE.md).
 
 ## Contributing
 
-We welcome all contributions to improve the lesson! Maintainers will do their best to help you if you have any
-questions, concerns, or experience any difficulties along the way.
+There are many ways to discuss and contribute to Library Carpentry lessons. Visit the lesson [discussion page](https://librarycarpentry.org/lc-overview/discuss/index.html) to learn more. Also see [Contributing](https://github.com/LibraryCarpentry/lc-overview/blob/gh-pages/CONTRIBUTING.md).
 
-We'd like to ask you to familiarize yourself with our [Contribution Guide](CONTRIBUTING.md) and have a look at
-the [more detailed guidelines][lesson-example] on proper formatting, ways to render the lesson locally, and even
-how to write new episodes.
+## Code of Conduct
 
-## Maintainer(s)
-
-* FIXME
+All participants should agree to abide by The Carpentries [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html).
 
 ## Authors
 
-A list of contributors to the lesson can be found in [AUTHORS](AUTHORS)
+Library Carpentry is authored and maintained through issues, commits, and pull requests from the community.
 
 ## Citation
 
-To cite this lesson, please consult with [CITATION](CITATION)
+Shari Laster (Ed.), Paul R. Pival (Ed.), Anton Angelo (Ed.), James Baker (Ed.), Carmi Crone (Ed.), Christopher Erdmann, Tim Dennis, Elizabeth Lisa McAulay, François Michonneau, … remerjohnson. (2019, July). LibraryCarpentry/lc-data-intro: Library Carpentry: Introduction to Data, June 2019 (Version v2019.06.1). Zenodo. http://doi.org/10.5281/zenodo.3264946
 
-[lesson-example]: https://swcarpentry.github.io/lesson-example
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3264946.svg)](https://doi.org/10.5281/zenodo.3264946)
+
+## Checking and Previewing the Lesson
+
+To check and preview a lesson locally, see [http://carpentries.github.io/lesson-example/07-checking/index.html](http://carpentries.github.io/lesson-example/07-checking/index.html).
