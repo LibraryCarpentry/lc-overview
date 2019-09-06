@@ -18,7 +18,7 @@ keypoints:
 
 We are all guilty of naming our files in such a way that sometimes we have a hard time finding them. For example, the following XKCD comic may be all too familiar.
 
-![Protip: Never look in someone else's documents folder](../assets/img/someone_elses_documents_folder.png)
+![Protip: Never look in someone else's documents folder](../files/someone_elses_documents_folder.png)
 
 'Protip: Never look in someone else's documents folder.' by Randall Munroe available at [https://xkcd.com/1459/](https://xkcd.com/1459/) under a Creative Commons Attribution-NonCommercial 2.5 License.
 
