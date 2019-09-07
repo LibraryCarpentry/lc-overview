@@ -251,8 +251,9 @@ All of our lessons are CC-BY and hosted on GitHub at [https://github.com/Library
 - Find out more [https://carpentries.org/membership/](https://carpentries.org/membership/) and/or reach out to [memberships@carpentries.org](mailto:memberships@carpentries.org)
 
 ### The Carpentries & Library Carpentry websites
-https://librarycarpentry.org 
-https://carpentries.org 
+
+- [https://carpentries.org](https://carpentries.org)
+- [https://librarycarpentry.org](https://librarycarpentry.org)
 
 ### Connect with The Carpentries
 - The Carpentries Slack, email lists, Twitter, newsletter... [https://carpentries.org/connect/](https://carpentries.org/connect/)
