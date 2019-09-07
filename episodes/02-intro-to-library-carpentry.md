@@ -1,3 +1,24 @@
+---
+title: "Introduction to Library Carpentry"
+teaching: 30
+exercises: 0
+questions:
+- How can The Carpentries & Library Carpentry help libraries meet the data and software needs of their communities and staff?
+objectives:
+- Learn about campus trends in data science.
+- Understand data science challenges and opportunties for libraries.
+- Learn how The Carpentries & Library Carpentry works.
+- See what libraries are doing with The Carpentries & Library Carpentry.
+- Understand how you can get involved and about training at your institution.
+keypoints:
+- Library Carpentry helps libraries...
+- Cut through the jargon terms and phrases of software development and data science and apply concepts from these fields in library tasks.
+- Identify and use best practices in data structures.
+- Learn how to programmatically transform and map data from one form to another.
+- Work effectively with researchers, IT, and systems colleagues.
+- Automate repetitive, error prone tasks.
+---
+
 # Introduction to Library Carpentry – Teaching Data Science Skills
 
 ## Who you are?
