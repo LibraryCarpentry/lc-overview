@@ -49,9 +49,9 @@ The following lesson episodes are optional:
 
 * [File Naming & Formatting](https://librarycarpentry.org/lc-overview/06-file-naming-formatting/index.html) [(GitHub Repository)](https://github.com/LibraryCarpentry/lc-overview): Introduce learners to good practices for file naming and organisation, open file formats such as Markdown, and open source software for working with open file formats. The Markdown exercise allows learners to gain experience using it ahead of lessons that include working with regular expressions and git. 
 
-* [One Up, One Down](https://librarycarpentry.org/lc-overview/07-one-up-down.md/index.html) [(GitHub Repository)](https://github.com/LibraryCarpentry/lc-overview): Activity where the instructor alternates between each workshop participant asking them what they liked about the workshop or what needs improvement. Participants cannot repeat responses. Allows both instructors and participants an opportunity to reflect on the workshop (day).
+* [One Up, One Down](https://librarycarpentry.org/lc-overview/07-one-up-down/index.html) [(GitHub Repository)](https://github.com/LibraryCarpentry/lc-overview): Activity where the instructor alternates between each workshop participant asking them what they liked about the workshop or what needs improvement. Participants cannot repeat responses. Allows both instructors and participants an opportunity to reflect on the workshop (day).
 
-* [Further Reading](https://librarycarpentry.org/lc-overview/08-one-up-down.md/index.html) [(GitHub Repository)](https://github.com/LibraryCarpentry/lc-overview): Resources on computational approaches in libraries.
+* [Further Reading](https://librarycarpentry.org/lc-overview/08-further-reading/index.html) [(GitHub Repository)](https://github.com/LibraryCarpentry/lc-overview): Resources on computational approaches in libraries.
 
 ## Part 2: The UNIX Shell
 
