@@ -71,6 +71,12 @@ This lesson introduces OpenRefine, a software program that helps with transformi
 
   * [OpenRefine](https://librarycarpentry.github.io/lc-open-refine/) [(GitHub Repository)](https://github.com/LibraryCarpentry/lc-open-refine)
 
+# Beyond the Standard Workshop
+
+When requesting a workshop from The Carpentries, staff will assist with the logistics surrounding a standard workshop (three of the four core lessons). Anything outside of the standard offering is a self-organised workshop, meaning, you are responsible for the organisation. This includes finding instructors (you can reach out to several venues listed under [Library Carpentry Contact](https://librarycarpentry.org/contact/) and the [Discuss Library Carpentry Topicbox](https://carpentries.topicbox.com/groups/discuss-library-carpentry) reaches the most people) and reimbursing their travel. You will also be responsible for setting up the [workshop website](https://github.com/carpentries/workshop-template), registration, and other items referenced in the [Handbook](https://docs.carpentries.org/).
+
+Recently, the [Curriculum Advisory Committee (CAC)](https://librarycarpentry.org/cac/) voted to expand the standard workshop offering to include another curriculum, [Introduction to Library Carpentry](https://librarycarpentry.org/lc-overview/02-intro-to-library-carpentry/index.html) and [OpenRefine](https://librarycarpentry.github.io/lc-open-refine/). This offering satisfies a common request from community members wishing to run a shorter, pilot workshop at their institution or in connection with an event. We will be working to include this offering in The Carpentries materials and request form. The CAC is also exploring [additional curricula and standard offerings](https://software.ac.uk/blog/2019-07-26-strengthening-library-carpentry-community) as more lessons reach the stable status. 
+
 # Extended Lessons
 
 There are a number of extended Library Carpentry lessons, in alpha and beta form, that are used to supplement and tailor workshops to the local needs of the community being taught. The lessons include:
