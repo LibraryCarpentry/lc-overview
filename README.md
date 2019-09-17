@@ -9,7 +9,7 @@
 - [James Baker](https://github.com/drjwbaker)
 - [Carmi Cronje](https://github.com/ccronje)
 
-Lesson Maintainers communication is via the [team site](https://github.com/orgs/LibraryCarpentry/teams/lc-data-intro-maintainers).
+Lesson Maintainers communication is via the [team site](https://github.com/orgs/LibraryCarpentry/teams/lc-overview-maintainers).
 
 ## Library Carpentry
 
