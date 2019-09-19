@@ -1,6 +1,3 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3264946.svg)](https://doi.org/10.5281/zenodo.3264946)
-* Content/lessons recently shifted from Introduction to Data to Workshop Overview
-
 # Maintainers for Library Carpentry Workshop Overview
  
 - [Shari Laster](https://github.com/sharilaster) (Lead)
@@ -38,9 +35,9 @@ Library Carpentry is authored and maintained through issues, commits, and pull r
 
 ## Citation
 
-Shari Laster (Ed.), Paul R. Pival (Ed.), Anton Angelo (Ed.), James Baker (Ed.), Carmi Crone (Ed.), Christopher Erdmann, Tim Dennis, Elizabeth Lisa McAulay, François Michonneau, … remerjohnson. (2019, July). LibraryCarpentry/lc-data-intro: Library Carpentry: Introduction to Data, June 2019 (Version v2019.06.1). Zenodo. http://doi.org/10.5281/zenodo.3264946
+Cite as:
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3264946.svg)](https://doi.org/10.5281/zenodo.3264946)
+Library Carpentry: Workshop Overview. September 2019. https://librarycarpentry.org/lc-overview.
 
 ## Checking and Previewing the Lesson
 
