@@ -21,6 +21,11 @@ Library Carpentry’s aim is to teach people working in library- and information
 > The data used in this workshop are often in the form of bibliographic metadata and text-based data. See each lesson for the specific datasets and sources used.
 {: .prereq}
 
+> ## License
+> 
+> Lesson materials are all available online, under a CC BY license, for self-directed study or for adaptation and re-use (as "Carpentries-based" training).
+{: .prereq}
+
 # Workshop Structure
 
 ## Parts vs Days
