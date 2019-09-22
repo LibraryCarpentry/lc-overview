@@ -95,6 +95,9 @@ The [Markdown Guide](https://www.markdownguide.org/) is a helpful resource for l
 
 For more advanced Markdown examples, the internet can be a helpful resource. For instance, if you need to convert a `.csv` table to a `.md` table you can find helpful resources such as [Convert CSV to Markdown](http://www.convertcsv.com/csv-to-markdown.htm).
 
+The following resource provides further background on Markdown for people in library- and information-related roles:   
+Ovadia, Steven. "[Markdown For Librarians And Academics.](https://academicworks.cuny.edu/cgi/viewcontent.cgi?article=1006&context=lg_pubs)" Behavioral & Social Sciences Librarian 33.2 (2014): 120-124.
+
 ## Applications for writing, reading and outputting plain text files
 
 We've already discussed why plain text formats are needed for working with data, and it's also important to understand that you need different tools to work with these formats. Word processors like Microsoft Word, LibreOffice Writer, and Google Docs will explicitly _not_ work for this purpose -- those tools are meant to optimize how documents appear to humans, not to computers. They add many hidden characters and generally are unsuitable for working with plain text files. The category of tool you'll want to use for data is called a _text editor_. Text editors save only the text that you type -- there is no hidden formatting or metadata. What you see in a text editor is what a computer will see when it tries to process that data.       
