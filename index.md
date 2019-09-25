@@ -84,7 +84,7 @@ Recently, the [Curriculum Advisory Committee (CAC)](https://librarycarpentry.org
 
 # Extended Lessons
 
-There are a number of extended Library Carpentry lessons, in alpha and beta form, that are used to supplement and tailor workshops to the local needs of the community being taught. The lessons include:
+There are a number of extended Library Carpentry lessons, in alpha, beta, and stable form, that are used to supplement and tailor workshops to the local needs of the community being taught. The lessons include:
 
   * [SQL](https://librarycarpentry.github.io/lc-sql/) [(GitHub Repository)](https://github.com/LibraryCarpentry/lc-sql)
   * [Webscraping](https://librarycarpentry.github.io/lc-webscraping/) [(GitHub Repository)](https://github.com/LibraryCarpentry/lc-webscraping)
