@@ -35,6 +35,16 @@ Instead of requiring “Days” like Data Carpentry or Software Carpentry, “Pa
 
 Based on the feedback from Library Carpentry (and the greater Carpentries) community, The Carpentries is doing more to include flexibility in the organisation of workshops. See [Upcoming Updated Forms for Workshops & Workshop Section of The Carpentries Website](https://carpentries.org/blog/2019/08/workshop-request-form-updates-teaser/).
 
+## Curricula
+In response to [strengthening the LC community](https://software.ac.uk/blog/2019-07-26-strengthening-library-carpentry-community), the Curriculum Advisory Committee have been exploring [the addition of new and popular curricula](https://github.com/LibraryCarpentry/governance/issues/14). The table below includes two new curricula beyond the standard workshop. As more lessons reach the stable status, we will include the new curricula in [The Carpentries workshop request form](https://amy.carpentries.org/forms/workshop/) and [LC lessons](https://librarycarpentry.org/lessons/).
+
+Curriculum | Description | Lesson menu | Total time estimated
+-- | -- | -- | --
+Library Carpentry Standard Workshop | Core lessons | 1) [Introduction to Working with Data](https://librarycarpentry.org/lc-overview/), 2) [The Unix Shell](https://librarycarpentry.org/lc-shell/), 3) [Introduction to Git](https://librarycarpentry.org/lc-git/), 4) [OpenRefine](https://librarycarpentry.org/lc-open-refine/) Note: A standard workshop must include three of the four lessons | 2 days
+Library Carpentry Introduction | A good combination for pilots and workshops connected with conferences and other events | 1) [Introduction to Library Carpentry](https://librarycarpentry.org/lc-overview/02-intro-to-library-carpentry/index.html), 2) [OpenRefine](https://librarycarpentry.org/lc-open-refine/) | Half day
+Library Carpentry Data Analysis Core | An introduction to data analysis and good practices including versioning, cleaning, automation, manipulation, and structured queries | 1) [Introduction to Git](https://librarycarpentry.org/lc-git/), 2) [The Unix Shell](https://librarycarpentry.org/lc-shell/), 3) [OpenRefine](https://librarycarpentry.org/lc-open-refine/), 4) [SQL](https://librarycarpentry.org/lc-sql/) | 2 days
+Custom | Design your own workshop to suit your local needs | Select from [https://librarycarpentry.org/lessons/](https://librarycarpentry.org/lessons/) | Estimate total time from lesson schedules e.g. [https://librarycarpentry.org/lc-shell/](https://librarycarpentry.org/lc-shell/)
+
 ## Core Lessons
 For a standard Library Carpentry workshop, three of the four parts below must be taught in addition to having at least one certified Carpentries instructor teach the workshop. Alternatively, a Library Carpentry-based workshop can be considered, where part(s) of the core lessons are combined with the extended lessons to suite the needs of the community. 
 
@@ -80,7 +90,7 @@ This lesson introduces OpenRefine, a software program that helps with transformi
 
 When requesting a workshop from The Carpentries, staff will assist with the logistics surrounding a standard workshop (three of the four core lessons). Anything outside of the standard offering is a self-organised workshop, meaning, you are responsible for the organisation. This includes finding instructors (you can reach out to several venues listed under [Library Carpentry Contact](https://librarycarpentry.org/contact/) and the [Discuss Library Carpentry Topicbox](https://carpentries.topicbox.com/groups/discuss-library-carpentry) reaches the most people) and reimbursing their travel. You will also be responsible for setting up the [workshop website](https://github.com/carpentries/workshop-template), registration, and other items referenced in the [Handbook](https://docs.carpentries.org/).
 
-Recently, the [Curriculum Advisory Committee (CAC)](https://librarycarpentry.org/cac/) voted to expand the standard workshop offering to include another curriculum, [Introduction to Library Carpentry](https://librarycarpentry.org/lc-overview/02-intro-to-library-carpentry/index.html) and [OpenRefine](https://librarycarpentry.github.io/lc-open-refine/). This offering satisfies a common request from community members wishing to run a shorter, pilot workshop at their institution or in connection with an event. We will be working to include this offering in The Carpentries materials and request form. The CAC is also exploring [additional curricula and standard offerings](https://software.ac.uk/blog/2019-07-26-strengthening-library-carpentry-community) as more lessons reach the stable status. 
+Recently, the [Curriculum Advisory Committee (CAC)](https://librarycarpentry.org/cac/) voted to expand the standard workshop offering to include two new curricula beyond the standard workshop (please see the Curricula table above). As more lessons reach the stable status, we will include the new curricula in [The Carpentries workshop request form](https://amy.carpentries.org/forms/workshop/) and [LC lessons](https://librarycarpentry.org/lessons/).
 
 # Extended Lessons
 
