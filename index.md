@@ -36,7 +36,7 @@ Instead of requiring “Days” like Data Carpentry or Software Carpentry, “Pa
 Based on the feedback from Library Carpentry (and the greater Carpentries) community, The Carpentries is doing more to include flexibility in the organisation of workshops. See [Upcoming Updated Forms for Workshops & Workshop Section of The Carpentries Website](https://carpentries.org/blog/2019/08/workshop-request-form-updates-teaser/).
 
 ## Curricula
-In response to [strengthening the LC community](https://software.ac.uk/blog/2019-07-26-strengthening-library-carpentry-community), the Curriculum Advisory Committee have been exploring [the addition of new and popular curricula](https://github.com/LibraryCarpentry/governance/issues/14). The table below includes two new curricula beyond the standard workshop. As more lessons reach the stable status, we will include the new curricula in [The Carpentries workshop request form](https://amy.carpentries.org/forms/workshop/) and [LC lessons](https://librarycarpentry.org/lessons/).
+In response to [strengthening the LC community](https://software.ac.uk/blog/2019-07-26-strengthening-library-carpentry-community), the Curriculum Advisory Committee has been exploring [the addition of new and popular curricula](https://github.com/LibraryCarpentry/governance/issues/14). The table below includes two new curricula beyond the standard workshop. As more lessons reach the stable status, we will include the new curricula in [The Carpentries workshop request form](https://amy.carpentries.org/forms/workshop/) and [LC lessons](https://librarycarpentry.org/lessons/).
 
 Curriculum | Description | Lesson menu | Total time estimated
 -- | -- | -- | --
