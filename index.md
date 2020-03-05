@@ -68,19 +68,19 @@ The following lesson episodes are optional:
 
 * [Further Reading](https://librarycarpentry.org/lc-overview/08-further-reading/index.html) [(GitHub Repository)](https://github.com/LibraryCarpentry/lc-overview): Resources on computational approaches in libraries.
 
-## Part 2: The UNIX Shell
+### Part 2: The UNIX Shell
 
 This lesson includes information on navigating/working with files and directories, scripting, and finding things on the command line (shell).
 
   * [The UNIX Shell](https://librarycarpentry.github.io/lc-shell/) [(GitHub Repository)](https://github.com/LibraryCarpentry/lc-shell)
 
-## Part 3: Introduction to Git
+### Part 3: Introduction to Git
 
 This lesson introduces git on the command line and moves to using GitHub to collaborate, manage, version, and share your project or repository work.
 
   * [Introduction to Git](https://librarycarpentry.github.io/lc-git/) [(GitHub Repository)](https://github.com/LibraryCarpentry/lc-git)
 
-## Part 4: OpenRefine
+### Part 4: OpenRefine
 
 This lesson introduces OpenRefine, a software program that helps with transforming, cleaning, filtering, and analysing data files.
 
