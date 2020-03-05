@@ -86,6 +86,16 @@ This lesson introduces OpenRefine, a software program that helps with transformi
 
   * [OpenRefine](https://librarycarpentry.github.io/lc-open-refine/) [(GitHub Repository)](https://github.com/LibraryCarpentry/lc-open-refine)
 
+## Wrapping Up a Workshop
+
+You might wish to include an activity to wrap up the workshop to improve learners' satisfaction and to help them set goals to use what they have learned. It can be especially helpful if they are tired after the challenges at the end of OpenRefine.
+
+Some suggestions include:
+
+1. **Think-pair-share**: Ask learners to think about what the most valuable thing they learned from the workshop, then share it with their neighbor. This only takes a few minutes but still provides a clear end-point to the event.
+2. **Increasing likelihood**: Ask learners to set a goal, then ask how likely they are to undertake that goal (eg 50,70, 90%), and what would it take to make that likelihood 100%. Learners could start to identify their own behaviours and support from colleagues/supervisors that could help them towards achieving that goal.
+3. **Now-next-later**: Ask learners to write some action plans for themselves, something they will do in the next two weeks, and/or something they will do in the next three months. This will give them some commitment to apply what they have learned in their job and continue embedding it into their practice. If learners share these with the room, the instructor can capture them in the Etherpad. 
+
 # Beyond the Standard Workshop
 
 When requesting a workshop from The Carpentries, staff will assist with the logistics surrounding a standard workshop (three of the four core lessons). Anything outside of the standard offering is a self-organised workshop, meaning, you are responsible for the organisation. This includes finding instructors (you can reach out to several venues listed under [Library Carpentry Contact](https://librarycarpentry.org/contact/) and the [Discuss Library Carpentry Topicbox](https://carpentries.topicbox.com/groups/discuss-library-carpentry) reaches the most people) and reimbursing their travel. You will also be responsible for setting up the [workshop website](https://github.com/carpentries/workshop-template), registration, and other items referenced in the [Handbook](https://docs.carpentries.org/).
