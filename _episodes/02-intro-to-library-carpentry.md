@@ -259,6 +259,10 @@ All of our lessons are CC-BY and hosted on GitHub at [https://github.com/Library
 - The Carpentries Slack, email lists, Twitter, newsletter... [https://carpentries.org/connect/](https://carpentries.org/connect/)
 - Library Carpentry Slack, email list, Gitter, Twitter... [https://librarycarpentry.org/contact/](https://librarycarpentry.org/contact/)
 
+## Share information with your colleagues
+- [Handout about Library Carpentry for Librarians](https://github.com/LibraryCarpentry/governance/raw/master/proposals/LibraryCarpentry_ForLibrarians.pdf)
+- [Handout about Library Carpentry for Library Directors](https://github.com/LibraryCarpentry/governance/raw/master/proposals/LibraryCarpentry_ForDirectors.pdf)
+
 ## What is your library/network doing to meet the data science needs of your community?
 - Have you surveyed the needs of  your community/library staff/members?
 - What training programs have you taken/plan to take?
