@@ -4,7 +4,7 @@ root: .  # Is the only page that don't follow the partner /:path/index.html
 permalink: index.html  # Is the only page that don't follow the partner /:path/index.html
 ---
 
-Library Carpentry’s aim is to teach people working in library- and information-related roles how to automate tasks, create, maintain, and analyze sustainable and reusable data, work effectively with IT and systems colleagues, and better understand the use of software in research. Training takes place mainly in face-to-face workshops. To learn more about our workshops, see [The Carpentries Handbook](https://docs.carpentries.org/).
+Library Carpentry aims to teach people working in library- and information-related roles how to automate tasks; create, maintain, and analyze sustainable and reusable data; work effectively with IT and systems colleagues; and better understand the use of software in research. Training takes place mainly in face-to-face workshops. To learn more about our workshops, see [The Carpentries Handbook](https://docs.carpentries.org/).
 
 > ## Audience
 >
@@ -29,7 +29,7 @@ Library Carpentry’s aim is to teach people working in library- and information
 # Workshop Structure
 
 ## Parts vs Days
-Feedback from the Library Carpentry community points to the importance of offering greater flexibility in the delivery of Library Carpentry training, citing the difficulty that many in library- and information-related roles have in getting time off for training. This might mean running training in half day blocks, rather than as a two-day chunk. In addition, flexibility may be needed to meet the needs or preferences of the community and host/organiser. 
+Feedback from the Library Carpentry community points to the importance of offering greater flexibility in the delivery of Library Carpentry training, citing the difficulty that many in library- and information-related roles have in getting time off for training. This might mean running training in half-day blocks, rather than as a two-day chunk. In addition, flexibility may be needed to meet the needs or preferences of the community and host/organiser. 
 
 Instead of requiring “Days” like Data Carpentry or Software Carpentry, “Parts” are used to allow for the flexibility desired by the Library Carpentry community. If a standard workshop (which includes three of the four core lessons) cannot be held across two consecutive days, then alternatively, it can be run in parts across a number of days. As long as three of the four core lessons are taught, it makes no difference whether the workshop is run in one day, two days, or multiple days.
 
