@@ -13,12 +13,12 @@ Library Carpentry aims to teach people working in library- and information-relat
 
 > ## Prerequisites & Tools
 >
-> There are no pre-requisites, and the materials assume no prior knowledge about the tools.
+> There are no prerequisites, and the materials assume no prior knowledge about the tools.
 {: .prereq}
 
 > ## Data
 > 
-> The data used in this workshop are often in the form of bibliographic metadata and text-based data. See each lesson for the specific datasets and sources used.
+> The data used in this workshop include bibliographic metadata and text-based data. See each lesson for the specific datasets and sources used.
 {: .prereq}
 
 > ## License
@@ -46,7 +46,7 @@ Library Carpentry Data Analysis Core | An introduction to data analysis and good
 Custom | Design your own workshop to suit your local needs | Select from [https://librarycarpentry.org/lessons/](https://librarycarpentry.org/lessons/) | Estimate total time from lesson schedules e.g. [https://librarycarpentry.org/lc-shell/](https://librarycarpentry.org/lc-shell/)
 
 ## Core Lessons
-For a standard Library Carpentry workshop, three of the four parts below must be taught in addition to having at least one certified Carpentries instructor teach the workshop. Alternatively, a Library Carpentry-based workshop can be considered, where part(s) of the core lessons are combined with the extended lessons to suite the needs of the community. 
+For a standard Library Carpentry workshop, three of the four parts below must be taught in addition to having at least one certified Carpentries instructor teach the workshop. Alternatively, a Library Carpentry-based workshop can be considered, where part(s) of the core lessons are combined with the extended lessons to suit the needs of the community. 
 
 ### Part 1: Introduction to Working with Data
 
