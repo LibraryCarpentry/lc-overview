@@ -100,7 +100,7 @@ Some suggestions include:
 
 When requesting a workshop from The Carpentries, staff will assist with the logistics surrounding a standard workshop (three of the four core lessons). Anything outside of the standard offering is a self-organised workshop, meaning, you are responsible for the organisation. This includes finding instructors (you can reach out to several venues listed under [Library Carpentry Contact](https://librarycarpentry.org/contact/) and the [Discuss Library Carpentry Topicbox](https://carpentries.topicbox.com/groups/discuss-library-carpentry) reaches the most people) and reimbursing their travel. You will also be responsible for setting up the [workshop website](https://github.com/carpentries/workshop-template), registration, and other items referenced in the [Handbook](https://docs.carpentries.org/).
 
-Recently, the [Curriculum Advisory Committee (CAC)](https://librarycarpentry.org/cac/) voted to expand the standard workshop offering to include two new curricula beyond the standard workshop (please see the Curricula table above). As more lessons reach the stable status, we will include the new curricula in [The Carpentries workshop request form](https://amy.carpentries.org/forms/workshop/) and [LC lessons](https://librarycarpentry.org/lessons/).
+Recently, the [Curriculum Advisory Committee (CAC)](https://librarycarpentry.org/cac/) voted to expand the Library Carpentry offerings to include four possible curricula (please see the Curricula table above). As more lessons reach the stable status, we will include the new curricula in [The Carpentries workshop request form](https://amy.carpentries.org/forms/workshop/) and [LC lessons](https://librarycarpentry.org/lessons/).
 
 # Extended Lessons
 
