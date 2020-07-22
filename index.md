@@ -29,7 +29,7 @@ Library Carpentry aims to teach people working in library- and information-relat
 # Workshop Structure
 
 ## Parts vs Days
-Feedback from the Library Carpentry community points to the importance of offering greater flexibility in the delivery of Library Carpentry training, citing the difficulty that many in library- and information-related roles have in getting time off for training. This might mean running training in half-day blocks, rather than as a two-day chunk. In addition, flexibility may be needed to meet the needs or preferences of the community and host/organiser. 
+Feedback from the Library Carpentry community has highlighted the effectiveness of offering greater flexibility in the delivery of Library Carpentry training. Specifically, individuals in library- and information-related roles noted that it is often difficult to get two consecutive days off for training. To address this barrier to participation, Library Carpentry may be run in half-day blocks, rather than as a two-day contiguous training. This flexibility also supports collaborating with the community and host/organiser to best suit their situation. 
 
 Instead of requiring “Days” like Data Carpentry or Software Carpentry, “Parts” are used to allow for the flexibility desired by the Library Carpentry community. If a standard workshop (which includes three of the four core lessons) cannot be held across two consecutive days, then alternatively, it can be run in parts across a number of days. As long as three of the four core lessons are taught, it makes no difference whether the workshop is run in one day, two days, or multiple days.
 
