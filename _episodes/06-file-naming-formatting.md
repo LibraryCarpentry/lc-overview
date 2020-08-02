@@ -74,7 +74,7 @@ When working with files for automation or computational purposes, it is more imp
 
 ## Use machine readable plain text notation for formatting
 
-There are some simple notation schemes that are also plain text and machine readable, but can be used to render simple formatting. One such scheme is called Markdown, a lightweight markup language. A markup language is a metadata language that uses notation to distinguish between the content and the formatting of the content. Markdown files, which use the file extension `.md`, are machine and human readable. Markdown applications can be disparate, from simple to-do lists, to extensive manual pages. For example, GitHub renders text via Markdown. For instance, you can inspect the [underlying Markdown for this episode, File naming & formatting](https://github.com/LibraryCarpentry/lc-data-intro/blob/gh-pages/_episodes/04-file-naming.md).
+There are some simple notation schemes that are also plain text and machine readable, but can be used to render simple formatting. One such scheme is called Markdown, a lightweight markup language. A markup language is a metadata language that uses notation to distinguish between the content and the formatting of the content. Markdown files, which use the file extension `.md`, are machine and human readable. Markdown applications can be disparate, from simple to-do lists, to extensive manual pages. For example, GitHub renders text via Markdown. For instance, you can inspect the [underlying Markdown for this episode, File naming & formatting](https://github.com/LibraryCarpentry/lc-overview/blob/gh-pages/_episodes/06-file-naming-formatting.md).
 
 > ## How can I format a Markdown file?
 >
