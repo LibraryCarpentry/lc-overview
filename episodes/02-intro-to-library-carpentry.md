@@ -150,6 +150,7 @@ See Institute of Museum and Library Services Grant [RE-85-17-0121-17](https://ww
 [https://librarycarpentry.org/blog/2018/08/new-england-libraries-carpentries-consortium/](https://librarycarpentry.org/blog/2018/08/new-england-libraries-carpentries-consortium/)
 - University of Oregon Libraries and Oregon State University Libraries Team Up to Teach First Library Carpentry Workshop in Oregon: UO and OSU Library Carpentry report  
 [https://librarycarpentry.org/blog/2018/08/oregon-libraries-report/](https://librarycarpentry.org/blog/2018/08/oregon-libraries-report/)
+- Library of Congress, "Building Digital Content Management Capacity with Library Carpentry", *The Signal*, November 9, 2018 [https://blogs.loc.gov/thesignal/2018/11/library-carpentry/](https://blogs.loc.gov/thesignal/2018/11/library-carpentry/)
 
 ## Software, Data, and Library Carpentry at a glance
 
