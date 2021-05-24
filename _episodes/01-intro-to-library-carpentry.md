@@ -10,12 +10,12 @@ objectives:
 - Establish why it is important to think about the data and how it is collected and stored.
 - Understand how the different tools we will learn about can be used together to make your work easier.
 - See examples of how these skills and tools are used in libraries.
-
+keypoints:
+- The Lessons in Library Carpentry will introduce you to tools to help with your work.
+- You can use your new vocanulaty when talking to IT colleagues and vendors.
+- You can use the skills and tools together to create data workflows.
+- There is no one "right" way to take on a data project.
 ---
-
-## Scenario: Your library needs to think about space!
-
-Space planning is a common project that faces libraries big, small, and in between. In order to make the most of the time and money that needs to be invested to make a space design project a success you will need to bring together departments from all over your library to supply expertise and data. You will need details about many things like your collections, how the spaces are used now, how your community wants to use your spaces and services, and how you might make adjustments in your stacks to accomodate your plans. We will talk about tools and strategies you can use to make your work easier, no matter what you do in the library, and how you can make the data you collect and create easier to use by others at your library now or in the future.
 
 ## Library Carpentry and The Carpentries
 
@@ -25,6 +25,9 @@ The lessons that make up the Library Carpentry curriculum are always evolving, w
 
 Library Carpentry workshops follow [The Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html). Please be respectful of everyone in the workshop; we are all here to learn and support each other as we expand our knowledge.
 
+## Scenario: Your library needs to think about space!
+
+Space planning is a common project that faces libraries big, small, and in between. In order to make the most of the time and money that needs to be invested to make a space design project a success you will need to bring together departments from all over your library to supply expertise and data. You will need details about many things like your collections, how the spaces are used now, how your community wants to use your spaces and services, and how you might make adjustments in your stacks to accomodate your plans. We will talk about tools and strategies you can use to make your work easier, no matter what you do in the library, and how you can make the data you collect and create easier to use by others at your library now or in the future.
 
 ## Where are data and software skills useful in library work?
 
@@ -91,7 +94,7 @@ Where your data are stored is something that you might take for granted, but it 
 
 No matter where you are storing your data you should consider any security concerns, particularly when dealing with any data that might lead to the identification of your community members. If it is essential that you collect and store this information, check in with your local IT group to learn about which systems at your institution are safe for storing sensitive information.
 
-> ## Data about human subjects
+> ### Data about human subjects
 > 
 > Any time we collect and use data about other humans we have to think carefully about why, how, and where we are storing it.
 > Like so many systems that we use every day, our library and learning management systems are collecting increasing amounts of data about the people who use them, and we
@@ -105,14 +108,25 @@ No matter where you are storing your data you should consider any security conce
 
 ## Using data tools together
 
-It is unlikely that any of the software that we use to work with data will have all of tools we need to complete our project from beginning to end. Thinking through the workflow that you will use to complete all of the steps in your project before you start will help you choose the file types, naming conventions, and software to complete your tasks. Let's take a look at a few examples of what this might look like in our hypothetical library space planning project.
+It is unlikely that any of the software that we use to work with data will have all of tools we need to complete our project from beginning to end. Thinking through the workflow that you will use to complete all of the steps in your project before you start will help you choose the file types, naming conventions, and software to complete your tasks. Let's take a look at an example of what this might look like in our hypothetical library space planning project.
 
-1. 
+We want to explore the circulation statistics of our physical collection outside of our integrated library system (ILS). 
+1. We export the data from the ILS as a CSV (comma separated values) file, giving it the name **2021-05-24_ilsExport_raw_v01.csv** and save it to a folder called **2021_rawData**. 
+2. We know that the raw data has errors accumulated over decades of changing cataloging practice, so we open the CSV file in **OpenRefine** so we can use the faceting tools to find possible inconsistencies. 
+3. Once we are done, we export the data as a CSV to a new folder called **2021_processedData** using the name **2021-05-27_ilsExport_proc_v01.csv**. 
+4. We also export the JSON file of each step we used to clean our data in OpenRefine so we know what we did and can do it again. (more in the [OpenRefine Lesson](https://librarycarpentry.org/lc-open-refine/)).
+5. We import our new table of processed data from the ILS into a SQL database so we can put datasets from different sources together (more in the [SQL Lesson](https://librarycarpentry.org/lc-sql/)).  
 
+> ### Each data project is different...
+> While we will discuss suggestions for ways to work through data projects, there is no definitive "right" way to go through a project. What we hope you take away from this workshop is a sense of the tools that are available, where they might be applied, and how to get help if you need it. 
+> 
+{: .callout}
 
-
-
-
+> ## Discussion 
+> Do you have: 
+> - a lesson from a past project that you want to share?
+> - OR something specific that you want to learn about today?
+{: .challenge}
 
 
 
