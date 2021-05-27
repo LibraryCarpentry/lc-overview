@@ -78,7 +78,7 @@ Libraries have been collecting data for centuries in the form of catalog records
 > ## Documenting your data
 > Whether you create a text README file, a data dictionary, a codebook, or a project notebook, it is important
 > to document your data. This includes things like:
-> - where your came from
+> - where your data came from
 > - why you collected it
 > - the time period that the data refer to
 > - who collected and analyzed them
@@ -100,7 +100,7 @@ No matter where you are storing your data you should consider any security conce
 > Like so many systems that we use every day, our library and learning management systems are collecting increasing amounts of data about the people who use them, and we
 > need to respect their privacy. If you plan to use any data about your communities in presentations or publications it is a good idea to go through the process 
 > of filling out a request with your local Institutional Review Board (IRB) and going through the ethics training program. It is a great way to learn more about human
-> subjects research. 
+> subjects research. You should also check what legal requirements are relevant in your country (for example, GDPR in the European Union).
 > 
 > If you want to learn more about privacy in libraries from the student perspective, check out the [Data Doubles Project](https://datadoubles.org/).
 > 
@@ -114,7 +114,7 @@ We want to explore the circulation statistics of our physical collection outside
 1. We export the data from the ILS as a CSV (comma separated values) file, giving it the name **2021-05-24_ilsExport_raw_v01.csv** and save it to a folder called **2021_rawData**. 
 2. We know that the raw data has errors accumulated over decades of changing cataloging practice, so we open the CSV file in **OpenRefine** so we can use the faceting tools to find possible inconsistencies. 
 3. Once we are done, we export the data as a CSV to a new folder called **2021_processedData** using the name **2021-05-27_ilsExport_proc_v01.csv**. 
-4. We also export the JSON file of each step we used to clean our data in OpenRefine so we know what we did and can do it again. (more in the [OpenRefine Lesson](https://librarycarpentry.org/lc-open-refine/)).
+4. We also export the JSON file of each step we used to clean our data in OpenRefine so we know what we did and can do it again (more in the [OpenRefine Lesson](https://librarycarpentry.org/lc-open-refine/)).
 5. We import our new table of processed data from the ILS into a SQL database so we can put datasets from different sources together (more in the [SQL Lesson](https://librarycarpentry.org/lc-sql/)).  
 
 > ### Each data project is different...
