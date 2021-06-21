@@ -121,5 +121,5 @@ In addition, the following lessons are conceptual (pre-alpha) and still in a des
   * [FAIR Data & Software](https://librarycarpentry.github.io/lc-research-data/) [(GitHub Repository)](https://github.com/LibraryCarpentry/lc-research-data)
   * [R](https://librarycarpentry.github.io/lc-r/) [(GitHub Repository)](https://github.com/LibraryCarpentry/lc-open-refine)
   * [MarcEdit](https://librarycarpentry.github.io/lc-marcedit/) [(GitHub Repository)](https://github.com/LibraryCarpentry/lc-marcedit)
-  * [OCR/Text & Data Mining](https://librarycarpentry.github.io/lc-ocr/) [(GitHub Repository)](https://github.com/LibraryCarpentry/lc-ocr)
+  * [OCR/Text & Data Mining](https://librarycarpentry.github.io/lc-tdm/) [(GitHub Repository)](https://github.com/LibraryCarpentry/lc-tdm)
   
