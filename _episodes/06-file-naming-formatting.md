@@ -24,7 +24,7 @@ We are all guilty of naming our files in such a way that sometimes we have a har
 
 There are a number of other [bad file naming examples catalogued by Twenty Pixels](http://20px.com/blog/2015/07/16/catalogue-bad-file-naming/) such as the _Overly Underscored_ or _Signs of Frustration_. Do any of these examples look familiar?
 
-The [File Organisation: Naming](https://datacarpentry.org/rr-organization1/01-file-naming/index.html) episode of Data Carpentry's Reproducibility of Research lesson contains principles and examples that we can apply to finding and working with files that will save us time later. For example, [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601), the preferred format for dates: YYYY-MM-DD. It introduces best practices such as using special case styles, 'Kebab-case' and 'Snake_case'. Dryad has additional [guidance on creating reusable data packages](https://datadryad.org/pages/reusabilityBestPractices) including folder and file structure.
+The [File Organisation: Naming](https://datacarpentry.org/rr-organization1/01-file-naming/index.html) episode of Data Carpentry's Reproducibility of Research lesson contains principles and examples that we can apply to finding and working with files that will save us time later. For example, [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601), the preferred format for dates: YYYY-MM-DD. It introduces best practices such as using special case styles, 'Kebab-case' and 'Snake_case'. Dryad has additional [guidance on creating reusable data packages](https://datadryad.org/stash/best_practices) including folder and file structure.
 
 ## Naming files sensible things is good for you and for your computers
 
