@@ -26,7 +26,7 @@ Main lessons:
 
 **Why automate?**
 
-Automation refers to a process or procedure that runs with little to no supervision or action. Libraries have been automating workflows for years and many the Library Carpentry lessons can help people in libraries consider and implement automation approaches to further those efforts. You may often receive reports that you have to manually format or bibliographies where you have to clean metadata. If this sounds familiar, the tools and approaches introduced in Library Carpentry will help you automate and spend less time on these activities.
+Automation refers to a process or procedure that runs with little to no supervision or action. Libraries have been automating workflows for years and many of the Library Carpentry lessons can help people in libraries consider and implement automation approaches to further those efforts. You may often receive reports that you have to manually format or bibliographies where you have to clean metadata. If this sounds familiar, the tools and approaches introduced in Library Carpentry will help you automate and spend less time on these activities.
 
 ![Is it worth the time](../files/is_it_worth_the_time.png)
 
