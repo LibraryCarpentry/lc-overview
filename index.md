@@ -118,8 +118,7 @@ There are a number of extended Library Carpentry lessons, in alpha, beta, and st
 In addition, the following lessons are conceptual (pre-alpha) and still in a design phase where community members are discussing them and/or lesson development is still in an early phase:
 
   * [Wikidata](https://librarycarpentry.github.io/lc-wikidata/) [(GitHub Repository)](https://github.com/LibraryCarpentry/lc-wikidata)
-  * [FAIR Data & Software](https://librarycarpentry.github.io/lc-research-data/) [(GitHub Repository)](https://github.com/LibraryCarpentry/lc-research-data)
+  * [FAIR Data & Software](https://librarycarpentry.org/lc-fair-research/) [(GitHub Repository)](https://github.com/LibraryCarpentry/lc-fair-research)
   * [R](https://librarycarpentry.github.io/lc-r/) [(GitHub Repository)](https://github.com/LibraryCarpentry/lc-open-refine)
   * [MarcEdit](https://librarycarpentry.github.io/lc-marcedit/) [(GitHub Repository)](https://github.com/LibraryCarpentry/lc-marcedit)
   * [OCR/Text & Data Mining](https://librarycarpentry.github.io/lc-tdm/) [(GitHub Repository)](https://github.com/LibraryCarpentry/lc-tdm)
-  
