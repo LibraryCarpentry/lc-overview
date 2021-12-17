@@ -132,7 +132,7 @@ See:
 ### Expanding Library Carpentry
 The California Digital Library will advance the scope, adoption, and impact of the emergent "Library Carpentry" continuing education program... The training opportunities enabled by the project will provide librarians with the critical data and computational skills and tools they need to be effective digital stewards for their stakeholders and user communities. 
 
-See Institute of Museum and Library Services Grant [RE-85-17-0121-17](https://www.imls.gov/grants/awarded/re-85-17-0121-17) 
+See Institute of Museum and Library Services Grant [RE-85-17-0121-17](https://www.imls.gov/grants/awarded/re-85-17-0121-17-1) 
 
 ### On April 17, 2018, the California Digital Library [welcomed Chris Erdmann, Library Carpentry Community and Development Director](https://www.cdlib.org/cdlinfo/2018/04/17/welcome-chris-erdmann-library-carpentry-community-and-development-director/) to help grow the Library Carpentry effort. 
 
@@ -174,7 +174,7 @@ For images, see [https://twitter.com/search?f=images&vertical=default&q=library%
 - Our workshops. 
 - Our learners.
 - Our 2018 Annual Report (which includes data/highlights):  
-[https://carpentries.org/files/assessment/TheCarpentries2018AnnualReport.pdf](https://carpentries.org/files/assessment/TheCarpentries2018AnnualReport.pdf)
+[https://carpentries.org/files/reports/TheCarpentries2018AnnualReport.pdf](https://carpentries.org/files/reports/TheCarpentries2018AnnualReport.pdf)
 
 ### Focus of Data, Software, and Library Carpentry
 - **Data Carpentry** workshops are domain-specific, and focus on teaching skills for working with data effectively and reproducibly.
