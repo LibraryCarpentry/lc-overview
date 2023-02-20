@@ -1,6 +1,7 @@
 # Maintainers for Library Carpentry Workshop Overview
 
 - [Jesse Johnston](https://github.com/morskyjezek)
+- [Ravyn Manuel](https://github.com/r2c0der)
 - [Elizabeth McAulay](https://github.com/emcaulay)
 
 
