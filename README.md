@@ -1,14 +1,18 @@
 # Maintainers for Library Carpentry Workshop Overview
- 
-- [Shari Laster](https://github.com/sharilaster) (Lead)
-- [Paul R. Pival](https://github.com/ppival)
-- [Anton Angelo](https://github.com/antonangelo)
-- [Carmi Cronje](https://github.com/ccronje)
+
+- [Jesse Johnston](https://github.com/morskyjezek)
+- [Elizabeth McAulay](https://github.com/emcaulay)
+
 
 ## Past Maintainers
 
+- [Anton Angelo](https://github.com/antonangelo)
 - [James Baker](https://github.com/drjwbaker)
+- [Carmi Cronje](https://github.com/ccronje)
 - [Chris Erdmann](https://github.com/libcce)
+- [Shari Laster](https://github.com/sharilaster) 
+- [Paul R. Pival](https://github.com/ppival)
+
 
 Lesson Maintainers communication is via the [team site](https://github.com/orgs/LibraryCarpentry/teams/lc-overview-maintainers).
 
