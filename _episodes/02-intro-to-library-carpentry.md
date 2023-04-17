@@ -186,7 +186,7 @@ For images, see [https://twitter.com/search?f=images&vertical=default&q=library%
 - Get people started and introduce them to what’s possible
 - Build confidence in using these skills
 - Encourage people to continue learning
-- Positive learning experience
+- Positive learning experience
 
 ### Goals of the workshop, aren’t just to teach the skills, but to build self-efficacy and increase confidence and create a positive learning experience. We know we can’t teach everything in two days, but we want to teach the foundational skills and get people started and give them the confidence to continue learning. Many people have had demotivating experience when learning things like coding or computational skills, and we want to change that perspective.
 
