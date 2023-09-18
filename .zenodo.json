@@ -1,0 +1,85 @@
+{
+  "contributors": [
+    {
+      "type": "Editor",
+      "name": "morskyjezek",
+      "orcid": "0000-0003-2617-0166"
+    },
+    {
+      "type": "Editor",
+      "name": "r2c0der"
+    },
+    {
+      "type": "Editor",
+      "name": "Elizabeth McAulay",
+      "orcid": "0000-0002-8679-9727"
+    }
+  ],
+  "creators": [
+    {
+      "name": "Christopher Erdmann",
+      "orcid": "0000-0003-2554-180X"
+    },
+    {
+      "name": "Elizabeth McAulay",
+      "orcid": "0000-0002-8679-9727"
+    },
+    {
+      "name": "morskyjezek",
+      "orcid": "0000-0003-2617-0166"
+    },
+    {
+      "name": "Cornelia Cronje",
+      "orcid": "0000-0003-2736-6267"
+    },
+    {
+      "name": "Paul R. Pival"
+    },
+    {
+      "name": "Kaitlin Newson"
+    },
+    {
+      "name": "Phil Reed",
+      "orcid": "0000-0002-4479-715X"
+    },
+    {
+      "name": "Shari Laster"
+    },
+    {
+      "name": "jesCodingHere"
+    },
+    {
+      "name": "Stacie Traill"
+    },
+    {
+      "name": "Ariel Deardorff",
+      "orcid": "0000-0001-8930-6089"
+    },
+    {
+      "name": "Ayesha Sultana"
+    },
+    {
+      "name": "Belinda Weaver",
+      "orcid": "0000-0002-6156-7997"
+    },
+    {
+      "name": "Maneesha Sane"
+    },
+    {
+      "name": "Maria Praetzellis"
+    },
+    {
+      "name": "nap84",
+      "orcid": "0000-0002-6243-2840"
+    },
+    {
+      "name": "Preethy Nair"
+    },
+    {
+      "name": "cnancarrow"
+    }
+  ],
+  "license": {
+    "id": "CC-BY-4.0"
+  }
+}
