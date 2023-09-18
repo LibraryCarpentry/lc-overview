@@ -85,7 +85,7 @@ There are some simple notation schemes that are also plain text and machine read
 
 There are a number of ways we can do this, for instance [hackmd.io](https://hackmd.io/) or [cryptpad.fr/code](https://cryptpad.fr/code), we will use [Dillinger.io](https://dillinger.io/) referenced in the [Markdown Guide](https://www.markdownguide.org/). Go to Dillinger.io and change the headings to bold.
 
-:::::::::::::::  solution
+:::::::::::::::: spoiler
 
 ## Answer
 

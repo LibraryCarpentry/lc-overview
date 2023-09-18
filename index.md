@@ -11,7 +11,6 @@ Library Carpentry aims to teach people working in library- and information-relat
 
 Library Carpentry lessons are for people working in library- and information-related roles. See [Our Audience](https://librarycarpentry.org/audience/) and [Our Learner Profiles (Draft)](https://github.com/LibraryCarpentry/lc-overview/blob/gh-pages/files/learner-profiles.md) for more information.
 
-
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::::::  prereq
@@ -19,7 +18,6 @@ Library Carpentry lessons are for people working in library- and information-rel
 ## Prerequisites \& Tools
 
 There are no prerequisites, and the materials assume no prior knowledge about the tools.
-
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -29,7 +27,6 @@ There are no prerequisites, and the materials assume no prior knowledge about th
 
 The data used in this workshop include bibliographic metadata and text-based data. See each lesson for the specific datasets and sources used.
 
-
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::::::  prereq
@@ -37,7 +34,6 @@ The data used in this workshop include bibliographic metadata and text-based dat
 ## License
 
 Lesson materials are all available online, under a CC BY license, for self-directed study or for adaptation and re-use (as "Carpentries-based" training).
-
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -56,7 +52,7 @@ Based on the feedback from Library Carpentry (and the greater Carpentries) commu
 In response to [strengthening the LC community](https://software.ac.uk/blog/2019-07-26-strengthening-library-carpentry-community), the Curriculum Advisory Committee has been exploring [the addition of new and popular curricula](https://github.com/LibraryCarpentry/governance/issues/14). The table below includes the standard workshop curriculum and two additional curricula that are equally supported. A final option is a "mix and match" approach that the workshop requestor can develop with the Carpentries. As we add more lessons to Library Carpentry, we will offer new curricula in [The Carpentries workshop request form](https://amy.carpentries.org/forms/workshop/) and [LC lessons](https://librarycarpentry.org/lessons/).
 
 | Curriculum                           | Description                                                                                                                          | Lesson menu                                                       | Total time estimated                            | 
-| ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------- | ----------------------------------------------- |
+| ---------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- | ----------------------------------------------------------------- | ----------------------------------------------- |
 | Library Carpentry Standard Workshop  | Core lessons                                                                                                                         | 1\) [Introduction to Working with Data](https://librarycarpentry.org/lc-data-intro/), 2) [The Unix Shell](https://librarycarpentry.org/lc-shell/), 3) [Introduction to Git](https://librarycarpentry.org/lc-git/), 4) [OpenRefine](https://librarycarpentry.org/lc-open-refine/) Note: A standard workshop must include three of the four lessons                                                               | 2 days                                          | 
 | Library Carpentry Introduction       | A good combination for pilots and workshops connected with conferences and other events                                              | 1\) [Introduction to Library Carpentry](https://librarycarpentry.org/lc-overview/02-intro-to-library-carpentry/index.html), 2) [OpenRefine](https://librarycarpentry.org/lc-open-refine/)                                                               | Half day                                        | 
 | Library Carpentry Data Analysis Core | An introduction to data analysis and good practices including versioning, cleaning, automation, manipulation, and structured queries | 1\) [Introduction to Git](https://librarycarpentry.org/lc-git/), 2) [The Unix Shell](https://librarycarpentry.org/lc-shell/), 3) [OpenRefine](https://librarycarpentry.org/lc-open-refine/), 4) [SQL](https://librarycarpentry.org/lc-sql/)                                                               | 2 days                                          | 

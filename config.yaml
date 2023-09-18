@@ -14,7 +14,7 @@ carpentry: 'lc'
 title: 'Library Carpentry Workshop Overview'
 
 # Date the lesson was created (YYYY-MM-DD, this is empty by default)
-created: 
+created: '2018-05-29'
 
 # Comma-separated list of keywords for the lesson
 keywords: 'software, data, lesson, The Carpentries'
