@@ -3,6 +3,10 @@ permalink: index.html
 site: sandpaper::sandpaper_site
 ---
 
+::: callout
+This lesson will be retired on 2024-03-29. 
+:::
+
 Library Carpentry aims to teach people working in library- and information-related roles how to automate tasks; create, maintain, and analyze sustainable and reusable data; work effectively with IT and systems colleagues; and better understand the use of software in research. Training takes place mainly in face-to-face workshops. To learn more about our workshops, see [The Carpentries Handbook](https://docs.carpentries.org/).
 
 ::::::::::::::::::::::::::::::::::::::::::  prereq
