@@ -125,7 +125,7 @@ Recently, the [Curriculum Advisory Committee (CAC)](https://librarycarpentry.org
 There are a number of extended Library Carpentry lessons, in alpha, beta, and stable form, that are used to supplement and tailor workshops to the local needs of the community being taught. The lessons include:
 
 - [SQL](https://librarycarpentry.github.io/lc-sql/) [(GitHub Repository)](https://github.com/LibraryCarpentry/lc-sql)
-- [Webscraping](https://librarycarpentry.github.io/lc-webscraping/) [(GitHub Repository)](https://github.com/LibraryCarpentry/lc-webscraping)
+- [Webscraping](https://carpentries-incubator.github.io/lc-webscraping/) [(GitHub Repository)](https://github.com/carpentries-incubator/lc-webscraping/)
 - [Tidy Data](https://librarycarpentry.github.io/lc-spreadsheets/) [(GitHub Repository)](https://github.com/LibraryCarpentry/lc-spreadsheets)
 - [Introduction to Python](https://librarycarpentry.github.io/lc-python-intro/) [(GitHub Repository)](https://github.com/LibraryCarpentry/lc-python-intro)
 - [Introduction to Data (for Archivists)](https://librarycarpentry.github.io/lc-data-intro-archives/) [(GitHub Repository)](https://github.com/LibraryCarpentry/lc-data-intro-archives)
