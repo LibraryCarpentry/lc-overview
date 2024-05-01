@@ -70,21 +70,21 @@ For a standard Library Carpentry workshop, three of the four parts below must be
 
 The lesson begins with a question and answer activity that allows participants to explore concepts or jargon around software development and data science. Then, the reasons behind why taking a computational approach is beneficial are covered. The latter half of the lesson explores regular expressions or pattern matching to find, manage, and transform data and files.
 
-- [Jargon Busting](https://librarycarpentry.org/lc-overview/03-jargon-busting/index.html) [(GitHub Repository)](https://github.com/LibraryCarpentry/lc-overview)
-- [A Computational Approach](https://librarycarpentry.org/lc-overview/04-computational-approach/index.html) [(GitHub Repository)](https://github.com/LibraryCarpentry/lc-overview)
+- [Jargon Busting](https://librarycarpentry.org/lc-overview/03-jargon-busting) [(GitHub Repository)](https://github.com/LibraryCarpentry/lc-overview)
+- [A Computational Approach](https://librarycarpentry.org/lc-overview/04-computational-approach) [(GitHub Repository)](https://github.com/LibraryCarpentry/lc-overview)
 - [Introduction to Working with Data (Regular Expressions)](https://librarycarpentry.github.io/lc-data-intro/) [(GitHub Repository)](https://github.com/LibraryCarpentry/lc-data-intro)
 
 The following lesson episodes are optional:
 
-- [Introduction to Library Carpentry](https://librarycarpentry.org/lc-overview/02-intro-to-library-carpentry/index.html) [(GitHub Repository)](https://github.com/LibraryCarpentry/lc-overview): For learners looking for an introduction to Library Carpentry and The Carpentries, for instance, as part of a shorter, pilot workshop (in connection with an event), or as a presentation at an event or to a community.
+- [Introduction to Library Carpentry](https://librarycarpentry.org/lc-overview/02-intro-to-library-carpentry) [(GitHub Repository)](https://github.com/LibraryCarpentry/lc-overview): For learners looking for an introduction to Library Carpentry and The Carpentries, for instance, as part of a shorter, pilot workshop (in connection with an event), or as a presentation at an event or to a community.
 
-- [Keyboard Shortcuts](https://librarycarpentry.org/lc-overview/05-keyboard-shortcuts/index.html) [(GitHub Repository)](https://github.com/LibraryCarpentry/lc-overview): Introduce learners to keyboard shortcuts that will be used in the lesson and other lessons while learning that keyboard shortcuts are useful in automating tasks. A question and answer exercise allows workshop participants to learn from each other about new keyboard shortcuts.
+- [Keyboard Shortcuts](https://librarycarpentry.org/lc-overview/05-keyboard-shortcuts) [(GitHub Repository)](https://github.com/LibraryCarpentry/lc-overview): Introduce learners to keyboard shortcuts that will be used in the lesson and other lessons while learning that keyboard shortcuts are useful in automating tasks. A question and answer exercise allows workshop participants to learn from each other about new keyboard shortcuts.
 
-- [File Naming \& Formatting](https://librarycarpentry.org/lc-overview/06-file-naming-formatting/index.html) [(GitHub Repository)](https://github.com/LibraryCarpentry/lc-overview): Introduce learners to good practices for file naming and organisation, open file formats such as Markdown, and open source software for working with open file formats. The Markdown exercise allows learners to gain experience using it ahead of lessons that include working with regular expressions and git.
+- [File Naming \& Formatting](https://librarycarpentry.org/lc-overview/06-file-naming-formatting) [(GitHub Repository)](https://github.com/LibraryCarpentry/lc-overview): Introduce learners to good practices for file naming and organisation, open file formats such as Markdown, and open source software for working with open file formats. The Markdown exercise allows learners to gain experience using it ahead of lessons that include working with regular expressions and git.
 
-- [One Up, One Down](https://librarycarpentry.org/lc-overview/07-one-up-down/index.html) [(GitHub Repository)](https://github.com/LibraryCarpentry/lc-overview): Activity where the instructor alternates between each workshop participant asking them what they liked about the workshop or what needs improvement. Participants cannot repeat responses. Allows both instructors and participants an opportunity to reflect on the workshop (day).
+- [One Up, One Down](https://librarycarpentry.org/lc-overview/07-one-up-down) [(GitHub Repository)](https://github.com/LibraryCarpentry/lc-overview): Activity where the instructor alternates between each workshop participant asking them what they liked about the workshop or what needs improvement. Participants cannot repeat responses. Allows both instructors and participants an opportunity to reflect on the workshop (day).
 
-- [Further Reading](https://librarycarpentry.org/lc-overview/08-further-reading/index.html) [(GitHub Repository)](https://github.com/LibraryCarpentry/lc-overview): Resources on computational approaches in libraries.
+- [Further Reading](https://librarycarpentry.org/lc-overview/08-further-reading) [(GitHub Repository)](https://github.com/LibraryCarpentry/lc-overview): Resources on computational approaches in libraries.
 
 ### Part 2: The UNIX Shell
 
